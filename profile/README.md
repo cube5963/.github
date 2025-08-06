@@ -8,4 +8,9 @@
 
 <!-- Created by GPT-4.1 -->
 
-[![cube5963's GitHub stats](https://github-readme-stats.vercel.app/api?username=cube5963)](https://github.com/anuraghazra/github-readme-stats)
+Languages:<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,py,go,rust)](https://skillicons.dev)<br/>
+Framework/Library:<br>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,nestjs,tailwind,discordjs,prisma,fastapi,flask,pytorch)](https://skillicons.dev)<br/>
+Tool:<br>
+[![My Skills](https://skillicons.dev/icons?i=github,nodejs,linux,ubuntu,docker,kubernetes,nginx,postgres,grafana,prometheus,cloudflare,firebase,supabase,vercel,idea,vscode)](https://skillicons.dev)<br/>
