@@ -8,4 +8,4 @@
 
 <!-- Created by GPT-4.1 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cube5963)](https://github.com/ryo-ma/github-profile-trophy)
+[![cube5963's GitHub stats](https://github-readme-stats.vercel.app/api?username=cube5963)](https://github.com/anuraghazra/github-readme-stats)
